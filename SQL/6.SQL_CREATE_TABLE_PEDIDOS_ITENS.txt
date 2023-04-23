@@ -1,0 +1,9 @@
+CREATE TABLE `sistema_vendas`.`pedidos_itens`(     `Sequencial` INT NOT NULL  AUTO_INCREMENT ,     `Numero_Pedido` INT NOT NULL ,     `Codigo_Produto` INT NOT NULL ,     `Quantidade` FLOAT ,     `Valor_Unitario` FLOAT ,     `Valor_Total` FLOAT ,     PRIMARY KEY (`Sequencial`)  ); 
+
+ALTER TABLE `sistema_vendas`.`pedidos_itens` ENGINE = INNODB;
+
+ALTER TABLE `sistema_vendas`.`pedidos_itens` ADD CONSTRAINT `FK_pedidos_itens` FOREIGN KEY (`Numero_Pedido`) REFERENCES `pedidos` (`Numero_Pedido`) ON DELETE CASCADE ;
+ 
+ALTER TABLE `sistema_vendas`.`pedidos_itens` ADD CONSTRAINT `FK_pedidos_itens_prod` FOREIGN KEY (`Codigo_Produto`) REFERENCES `produtos` (`Codigo`);
+
+

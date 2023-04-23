@@ -1,0 +1,3 @@
+CREATE TABLE `sistema_vendas`.`produtos`(     `Codigo` INT NOT NULL ,     `Descricao` VARCHAR(100) ,     `Preco_Venda` FLOAT ,     PRIMARY KEY (`Codigo`)  );
+
+ALTER TABLE `sistema_vendas`.`produtos` ENGINE = INNODB; 

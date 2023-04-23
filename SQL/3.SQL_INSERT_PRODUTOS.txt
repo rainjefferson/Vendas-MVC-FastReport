@@ -1,0 +1,64 @@
+ 
+INSERT INTO produtos (Codigo, Descricao, Preco_Venda)
+VALUES (1, 'Balde Azul', 1.99);
+
+INSERT INTO produtos (Codigo, Descricao, Preco_Venda)
+VALUES (2, 'Balde Amarelo', 2.99);
+
+INSERT INTO produtos (Codigo, Descricao, Preco_Venda)
+VALUES (3, 'Balde Vermelho', 2.99);
+
+INSERT INTO produtos (Codigo, Descricao, Preco_Venda)
+VALUES (4, 'Balde Roxo', 2.99);
+
+INSERT INTO produtos (Codigo, Descricao, Preco_Venda)
+VALUES (5, 'Balde Branco', 3.99);
+
+INSERT INTO produtos (Codigo, Descricao, Preco_Venda)
+VALUES (6, 'Balde Verde', 4.99);
+
+INSERT INTO produtos (Codigo, Descricao, Preco_Venda)
+VALUES (7, 'Balde Rosa', 5.99);
+
+INSERT INTO produtos (Codigo, Descricao, Preco_Venda)
+VALUES (8, 'Balde Preto', 6.99);
+
+INSERT INTO produtos (Codigo, Descricao, Preco_Venda)
+VALUES (9, 'Balde Laranja', 7.99);
+
+INSERT INTO produtos (Codigo, Descricao, Preco_Venda)
+VALUES (10, 'Balde Prata', 8.99);
+
+INSERT INTO produtos (Codigo, Descricao, Preco_Venda)
+VALUES (11, 'Vassoura Prata', 10.99);
+
+INSERT INTO produtos (Codigo, Descricao, Preco_Venda)
+VALUES (12, 'Vassoura Preta', 13.99);
+
+INSERT INTO produtos (Codigo, Descricao, Preco_Venda)
+VALUES (13, 'Vassoura Azul', 14.99);
+
+INSERT INTO produtos (Codigo, Descricao, Preco_Venda)
+VALUES (14, 'Vassoura Vermelha', 15.99);
+
+INSERT INTO produtos (Codigo, Descricao, Preco_Venda)
+VALUES (15, 'Vassoura Branca', 17.99);
+
+INSERT INTO produtos (Codigo, Descricao, Preco_Venda)
+VALUES (16, 'Vassoura Laranja', 18.99);
+
+INSERT INTO produtos (Codigo, Descricao, Preco_Venda)
+VALUES (17, 'Vassoura Amarela', 19.99);
+
+INSERT INTO produtos (Codigo, Descricao, Preco_Venda)
+VALUES (18, 'Vassoura Verde', 20.99);
+
+INSERT INTO produtos (Codigo, Descricao, Preco_Venda)
+VALUES (19, 'Vassoura Roxa', 22.99);
+
+INSERT INTO produtos (Codigo, Descricao, Preco_Venda)
+VALUES (20, 'Vassoura Rosa', 24.99);
+
+INSERT INTO produtos (Codigo, Descricao, Preco_Venda)
+VALUES (21, 'Vassoura Ciano', 26.99);
+

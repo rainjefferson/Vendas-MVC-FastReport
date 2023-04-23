@@ -1,0 +1,60 @@
+
+INSERT INTO clientes (Codigo, Nome, Cidade, UF)
+VALUES (1, 'Maria de Lourdes', 'Curitiba', 'PR');
+
+INSERT INTO clientes (Codigo, Nome, Cidade, UF)
+VALUES (2, 'José Pedro', 'Curitiba', 'PR');
+
+INSERT INTO clientes (Codigo, Nome, Cidade, UF)
+VALUES (3, 'Joana Soares', 'Curitiba', 'PR'); 
+
+INSERT INTO clientes (Codigo, Nome, Cidade, UF)
+VALUES (4, 'Marcos Araújo', 'Curitiba', 'PR');
+
+INSERT INTO clientes (Codigo, Nome, Cidade, UF)
+VALUES (5, 'Mariana Santos', 'Curitiba', 'PR');
+
+INSERT INTO clientes (Codigo, Nome, Cidade, UF)
+VALUES (6, 'Patrícia Soares', 'Curitiba', 'PR');
+
+INSERT INTO clientes (Codigo, Nome, Cidade, UF)
+VALUES (7, 'Antonio da Silva', 'Curitiba', 'PR');
+
+INSERT INTO clientes (Codigo, Nome, Cidade, UF)
+VALUES (8, 'Rafaela Joaquina', 'Florianópolis', 'SC');
+
+INSERT INTO clientes (Codigo, Nome, Cidade, UF)
+VALUES (9, 'Vanderlei Padilha', 'Florianópolis', 'SC');
+
+INSERT INTO clientes (Codigo, Nome, Cidade, UF)
+VALUES (10, 'Alessandro Antonio', 'Florianópolis', 'SC');
+
+INSERT INTO clientes (Codigo, Nome, Cidade, UF)
+VALUES (11, 'Anderson Oliviera', 'Florianópolis', 'SC');
+
+INSERT INTO clientes (Codigo, Nome, Cidade, UF)
+VALUES (12, 'Rosilda Paminondas', 'Florianópolis', 'SC');
+
+INSERT INTO clientes (Codigo, Nome, Cidade, UF)
+VALUES (13, 'Ronaldo Silvério', 'Florianópolis', 'SC');
+
+INSERT INTO clientes (Codigo, Nome, Cidade, UF)
+VALUES (14, 'Jorge Carneiro', 'Florianópolis', 'SC');
+
+INSERT INTO clientes (Codigo, Nome, Cidade, UF)
+VALUES (15, 'Kelly da Costa', 'São Paulo', 'SP');
+
+INSERT INTO clientes (Codigo, Nome, Cidade, UF)
+VALUES (16, 'Patrick Tomé', 'São Paulo', 'SP');
+
+INSERT INTO clientes (Codigo, Nome, Cidade, UF)
+VALUES (17, 'Luciano Hallick', 'São Paulo', 'SP');
+
+INSERT INTO clientes (Codigo, Nome, Cidade, UF)
+VALUES (18, 'Guilherme Godoy', 'São Paulo', 'SP');
+
+INSERT INTO clientes (Codigo, Nome, Cidade, UF)
+VALUES (19, 'Fabio Fidalgo', 'São Paulo', 'SP');
+
+INSERT INTO clientes (Codigo, Nome, Cidade, UF)
+VALUES (20, 'Fabricio Menin', 'São Paulo', 'SP');

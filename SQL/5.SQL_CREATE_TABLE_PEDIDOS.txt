@@ -1,0 +1,5 @@
+CREATE TABLE `sistema_vendas`.`pedidos`(     `Numero_Pedido` INT NOT NULL ,     `Data_Emiss` DATE ,     `Codigo_Cliente` INT NOT NULL ,     `Valor_Total` FLOAT ,     PRIMARY KEY (`Numero_Pedido`)  );
+
+ALTER TABLE `sistema_vendas`.`pedidos` ENGINE = INNODB; 
+
+ALTER TABLE `sistema_vendas`.`pedidos` ADD CONSTRAINT `FK_pedidos` FOREIGN KEY (`Codigo_Cliente`) REFERENCES `clientes` (`Codigo`);
